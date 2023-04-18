@@ -41,7 +41,7 @@ contract TestPoC is Test {
     }
 
     // UNIT TEST
-    function test_exploitUnit() public {
+    function testExploitUnit() public {
         vm.stopPrank();
         vm.prank(bob);
 

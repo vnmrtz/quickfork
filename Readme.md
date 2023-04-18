@@ -1,7 +1,7 @@
 # Foundry PoC Template
 
 ## Introduction
-This is a foundry template for quick and easy Proof of Concept (PoC) fork tests. It is intended to be used as a starting point for writing PoCs tests for vulnerabilities on any EVM compatible network. It is not intended to be used as a final PoC.
+This is a foundry template to run quick and easy Proof of Concept (PoC) fork tests. It is intended to be used as a starting point for writing PoCs tests for vulnerabilities on any EVM compatible network. It is not intended to be used as a final PoC.
 
 ## Requirements
 
